@@ -122,7 +122,7 @@ curl -X POST http://localhost:5000/emails \
 curl -X POST http://localhost:5000/emails \
   -H "Content-Type: application/x-www-form-urlencoded" \
   -H "X-API-Key: supersecrettoken" \
-  -d "from=billing@rumahhosting.net" \
+  -d "from=yourfriend@email.com" \
   -d "q=invoice"
 ```
 
@@ -198,8 +198,6 @@ This project is licensed under the **GPL-3.0 license** — see the [LICENSE](LIC
 
 ## 🧑‍💻 Author
 
-**Developed by:** [Rizkychi]
+**Developed by:** Rizkychi
 **Contact:** [[rizkynhae@gmail.com](mailto:rizkynhae@gmail.com)]
 **GitHub:** [@rizkychi](https://github.com/rizkychi)
-
-```
